@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9af0173c-cc52-47db-8dab-f837e688ba11" name="Changes" comment="0.2">
-      <change afterPath="$PROJECT_DIR$/make-plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scraper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CS2-Graph.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CS2-Graph.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_all.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-    </list>
+    <list default="true" id="9af0173c-cc52-47db-8dab-f837e688ba11" name="Changes" comment="1.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713601404551</updated>
       <workItem from="1713601412890" duration="5387000" />
-      <workItem from="1713714649805" duration="8006000" />
+      <workItem from="1713714649805" duration="8365000" />
     </task>
     <task id="LOCAL-00001" summary="0.1">
       <option name="closed" value="true" />
@@ -123,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713717373997</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1.0">
+      <option name="closed" value="true" />
+      <created>1713723844349</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713723844349</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +130,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="0.1" />
     <MESSAGE value="0.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.2" />
+    <MESSAGE value="1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CS2_Graph$data.coverage" NAME="data Coverage Results" MODIFIED="1713718382912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
